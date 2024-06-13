@@ -1,0 +1,1 @@
+flag = b'TulaCTF{FERmAt_MeTHOD_IS_coOl_righT}'

@@ -1,0 +1,1 @@
+flag = b'TulaCTF{NOT_aLl_hasHes_aRe_Good}'

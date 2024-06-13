@@ -1,0 +1,1 @@
+flag = b'TulaCTF{A_BaD_wAy_To_stRoNG_YOUr_cryptOgrAphY}'

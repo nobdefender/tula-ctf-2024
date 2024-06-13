@@ -1,0 +1,1 @@
+flag = b'TulaCTF{YoU_MUSt_aLWayS_USE_SeCuRE_rAnDOm}'

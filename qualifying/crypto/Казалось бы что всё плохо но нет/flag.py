@@ -1,0 +1,1 @@
+FLAG = "TulaCTF{THeRE_IS_nO_pOiNT_In_MAKiNg_thE_PRObLem_BIgGER}"

@@ -1,0 +1,1 @@
+FLAG = 'TulaCTF{WHO_ELsE_JUST_BruTEFOrCeD_THiS_STUFf}'
